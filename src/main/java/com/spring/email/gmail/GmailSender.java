@@ -22,7 +22,7 @@ public class GmailSender {
 		properties.put("mail.smtp.host","smtp.gmail.com");
 		
 		final String username ="ankitsharma97194";
-		final String password="okqqfbycuteaavts";
+		final String password="okqqfbycuteaavts"; //pass-code change
 		
 		Session session = Session.getInstance(properties,new Authenticator() {
 
